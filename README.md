@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi, I'm Jawad Azeem
 
-<!--
-**jawadazeem/jawadazeem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a developer interested in backend engineering, cloud computing, and applied machine learning. I use this space to build projects, explore new tools, and document what I’m learning.
 
-Here are some ideas to get you started:
+## 🔧 Technical Skills
+- **Backend & APIs:** Java, Spring Boot, RESTful Services
+- **Cloud:** AWS (EC2, S3, Lambda, RDS)  
+- **Web Development:** JavaScript, HTML, CSS  
+- **Data & ML:** Python, Pandas, data processing workflows  
+- **Tools:** Git, Linux, Postman, IntelliJ, VS Code  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📂 Projects
+
+### 📡 Telecom Billing Processor (Java ETL + Spring Boot API)
+- Built an end-to-end ETL workflow that parses telecom billing CSVs, transforms data, and provides analytics through REST endpoints.  
+- Designed immutable domain models and implemented aggregation using Java Streams.  
+- Applied layered architecture (controller → service → ETL) and added persistence through repository patterns.
+
+### 🧠 EEG Signal Processing & Machine Learning Pipeline
+- Developed a Python-based workflow for EEG analysis using Pandas, Matplotlib, and scikit-learn.  
+- Processed raw EEG signals, visualized patterns, and evaluated ML models to explore relationships between activity and stimuli.
+
+## 🌐 Links
+- **LinkedIn:** https://linkedin.com/in/jawad-azeem
+- **Website:** https://jawadazeem.github.io/jawad-portfolio/
+- **Email:** jawad.azeem@outlook.com  
+
+
+Thanks for visiting.
