@@ -16,10 +16,6 @@ I’m a developer interested in backend engineering, cloud computing, and applie
 - Designed immutable domain models and implemented aggregation using Java Streams.  
 - Applied layered architecture (controller → service → ETL) and added persistence through repository patterns.
 
-### 🧠 EEG Signal Processing & Machine Learning Pipeline
-- Developed a Python-based workflow for EEG analysis using Pandas, Matplotlib, and scikit-learn.  
-- Processed raw EEG signals, visualized patterns, and evaluated ML models to explore relationships between activity and stimuli.
-
 ## 🌐 Links
 - **LinkedIn:** https://linkedin.com/in/jawad-azeem
 - **Website:** https://jawadazeem.github.io/jawad-portfolio/
