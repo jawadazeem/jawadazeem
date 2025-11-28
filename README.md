@@ -16,10 +16,5 @@ I’m a developer interested in backend engineering, cloud computing, and applie
 - Designed immutable domain models and implemented aggregation using Java Streams.  
 - Applied layered architecture (controller → service → ETL) and added persistence through repository patterns.
 
-## 🌐 Links
-- **LinkedIn:** https://linkedin.com/in/jawad-azeem
-- **Website:** https://jawadazeem.github.io/jawad-portfolio/
-- **Email:** jawad.azeem@outlook.com  
-
 
 Thanks for visiting.
