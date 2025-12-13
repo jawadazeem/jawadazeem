@@ -9,12 +9,7 @@ I’m a developer interested in backend engineering, cloud computing, and applie
 - **Data & ML:** Python, Pandas, data processing workflows  
 - **Tools:** Git, Linux, Postman, IntelliJ, VS Code  
 
-## 📂 Projects
+## Website
 
-### 📡 Telecom Billing Processor (Java ETL + Spring Boot API)
-- Built an end-to-end ETL workflow that parses telecom billing CSVs, transforms data, and provides analytics through REST endpoints.  
-- Designed immutable domain models and implemented aggregation using Java Streams.  
-- Applied layered architecture (controller → service → ETL) and added persistence through repository patterns.
-
-
-Thanks for visiting.
+### jawadazeem.com
+- Visit my website to learn more. Thanks for visiting.
