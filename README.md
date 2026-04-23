@@ -5,7 +5,7 @@ I’m a developer specializing in backend engineering and cloud computing. I use
 ## Technical Skills
 - **Languages**: Java, Python, JavaScript, SQL, HTML/CSS 
 - **Frameworks**: Spring Boot, Hibernate, REST APIs 
-- **Cloud/DevOps**: AWS (Lambda, ECS, EC2, S3, RDS, API GW), Docker, CI/CD 
+- **Cloud/DevOps**: AWS (Lambda, ECS, S3, RDS), Terraform, Docker, CI/CD 
 - **Platforms & Tools**: PostgreSQL, SQLite, Git, Postman, Mockito, Linux/Unix, Microsoft Power Platform 
 
 ## Website
