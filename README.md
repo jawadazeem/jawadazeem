@@ -1,14 +1,14 @@
-# Hi, I'm Jawad Azeem
+I'm a backend and cloud engineer focused on building scalable systems and cloud-based applications.
 
-I’m a developer specializing in backend engineering and cloud computing. I use this space to build projects, explore new tools, and document what I’m working on.
+## Skills
+- **Backend Development**:
+  - Java (Spring Boot), REST APIs, Hibernate
+  - Python, SQL
+- **Cloud/DevOps**:
+  - AWS (Lambda, ECS, S3, RDS),
+  - Terraform, Docker
+  - CI/CD pipelines
 
-## Technical Skills
-- **Languages**: Java, Python, JavaScript, SQL, HTML/CSS 
-- **Frameworks**: Spring Boot, Hibernate, REST APIs 
-- **Cloud/DevOps**: AWS (Lambda, ECS, S3, RDS), Terraform, Docker, CI/CD 
-- **Platforms & Tools**: PostgreSQL, SQLite, Git, Postman, Mockito, Linux/Unix, Microsoft Power Platform 
-
-## Website
-
+## Explore my work and projects at:
 ### www.jawadazeem.com
-- Visit my website to learn more. Thanks for visiting.
+
