@@ -1,42 +1,39 @@
 # Jawad Azeem
 
-Backend & Cloud Engineer focused on building scalable, reliable, cloud-native systems on AWS.
+Software Systems Engineer focused on building mission-critical, AI-driven, and scalable distributed systems.
 
-I design and build backend services, APIs, and infrastructure with a focus on performance, maintainability, and automation.
+I design and build high-performance backend services, real-time data pipelines, and robust cloud infrastructure, with a specialized focus on integrating generative AI and automated systems into production environments.
 
 ---
 
 ## Focus Areas
-- Distributed backend systems
-- API design and backend architecture
-- Cloud infrastructure (AWS)
-- Scalable and reliable services
+- Distributed & Event-Driven Systems
+- Generative AI & RAG Architectures
+- Real-time Data Engineering & IoT Orchestration
+- Mission-Critical Cloud Infrastructure (AWS)
 
 ---
 
 ## Tech Stack
 
-### Backend
-- Java (Spring Boot)
-- REST APIs
-- Hibernate
-- Python
-- SQL (PostgreSQL)
+### Engineering & AI
+- **Languages:** Java (Spring Boot, Virtual Threads), Python (TensorFlow, Scikit-learn), C++, TypeScript
+- **AI/Data:** RAG Workflows, LLM Integration (Ollama), Anomaly Detection, Pgvector
+- **Core:** REST APIs, Hibernate, SQL (PostgreSQL, SQLite)
 
 ### Cloud & DevOps
-- AWS (Lambda, ECS, S3, RDS)
-- Docker
-- Terraform
-- CI/CD pipelines
+- **Cloud:** AWS (Lambda, ECS, S3, RDS, Rekognition, SNS)
+- **Infrastructure:** Docker, Kubernetes, Terraform, CI/CD pipelines
+- **Tools:** MQTT, Liquibase, Git, Linux/Unix
 
 ---
 
 ## Work
-- Backend systems and API development
-- Cloud infrastructure design and automation
-- Building scalable, production-ready services
+- Engineering mission-critical DoD software and real-time embedded systems.
+- Designing scalable, polyglot backend architectures for cloud-native applications.
+- Automating infrastructure and streamlining deployment architectures to improve system reliability.
 
 ---
 
 ## Portfolio
-www.jawadazeem.com
+[www.jawadazeem.com](http://www.jawadazeem.com)
